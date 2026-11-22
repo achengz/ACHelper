@@ -1,0 +1,11 @@
+bin/
+obj/
+dist/
+.dotnet-local/
+.vs/
+*.user
+*.suo
+lockfile
+.env
+.env.*
+report.txt
